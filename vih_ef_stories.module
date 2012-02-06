@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the VIH EF Stories feature.
+ */
+
+include_once('vih_ef_stories.features.inc');
